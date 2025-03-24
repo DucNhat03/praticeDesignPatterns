@@ -12,5 +12,8 @@ public class Main {
 		// Thêm phụ cấp Trưởng phòng
 		nhanVien = new PhuCapTruongPhong(nhanVien);
 		System.out.println(nhanVien.moTa() + ": " + nhanVien.tinhLuong() + " USD");
+		
+		
+		
 	}
 }
